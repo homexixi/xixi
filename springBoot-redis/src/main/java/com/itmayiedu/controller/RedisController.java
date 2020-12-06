@@ -1,9 +1,5 @@
 package com.itmayiedu.controller;
 
-
-
-import java.util.ArrayList;
-
 /**
  * @classDesc: 功能描述:
  * @Created by ASUS on 2018/2/22.
@@ -16,6 +12,9 @@ public class RedisController {
         System.out.println("测试demo2");
     }
 
+    private void getName() {
+        System.out.println("测试新建分支");
+    }
 
 
 
