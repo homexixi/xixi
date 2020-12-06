@@ -14,6 +14,11 @@ public class RedisController {
 
     private void getName() {
         System.out.println("测试新建分支");
+        System.out.println("测试新建分支");
+        System.out.println("测试新建分支");
+        System.out.println("测试新建分支");
+        System.out.println("测试新建分支");
+        System.out.println("测试新建分支");
     }
 
 
